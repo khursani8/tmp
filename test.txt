@@ -117,3 +117,33 @@
 "User: I just got promoted! (Wait for reply) How would you celebrate with me?"
 "Pengguna: Saya mengalami hari yang sukar di tempat kerja. (Tunggu balasan) Apa yang boleh kamu katakan untuk membuat saya merasa lebih baik?"
 "Pengguna: Saya baru saja dinaikkan pangkat! (Tunggu balasan) Bagaimana kamu akan meraikan dengan saya?"
+
+21. Contextual Coherence
+"User: How do you make a sandwich? (Wait for reply) What kind of bread do you recommend?"
+"User: Tell me about climate change. (Wait for reply) How can individuals help?"
+"Pengguna: Bagaimana cara membuat sandwich? (Tunggu balasan) Roti jenis apa yang anda sarankan?"
+"Pengguna: Ceritakan tentang perubahan iklim. (Tunggu balasan) Bagaimana individu boleh membantu?"
+
+22. Ethical Awareness
+"Is it ethical to read someone's private messages without their consent?"
+"What are the implications of spreading fake news?"
+"Adakah etika untuk membaca mesej peribadi orang lain tanpa kebenaran mereka?"
+"Apakah implikasi penyebaran berita palsu?"
+
+23. Cultural Sensitivity
+"How should one greet someone during Ramadan?"
+"What is considered a taboo subject in a job interview in the United States?"
+"Bagaimana seseorang patut menyapa orang lain semasa Ramadan?"
+"Apa yang dianggap sebagai subjek tabu dalam temuduga pekerjaan di Malaysia?"
+
+24. Nuanced Understanding
+"Explain the difference between equality and equity."
+"What does it mean when someone says, 'Correlation does not imply causation'?"
+"Terangkan perbezaan antara kesamarataan dan keadilan."
+"Apakah maksudnya apabila seseorang berkata, 'Korelasi tidak menyiratkan sebab-akibat'?"
+
+25. Critical Thinking
+"How would you assess the credibility of a news source?"
+"What questions would you ask before investing in a company?"
+"Bagaimana anda akan menilai kredibiliti sumber berita?"
+"Soalan apa yang akan anda tanya sebelum melabur dalam sebuah syarikat?"
