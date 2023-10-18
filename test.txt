@@ -87,3 +87,33 @@
 "Define the term 'supply chain.'"
 "Apakah itu fotosintesis?"
 "Definisikan istilah 'rantaian bekalan.'"
+
+16. Turn-taking and Context
+"User: What's your favorite color? (Wait for reply) Why do you like it?"
+"User: Do you like coffee or tea? (Wait for reply) What's your reason?"
+"Pengguna: Warna kegemaranmu apa? (Tunggu balasan) Kenapa kamu suka warna itu?"
+"Pengguna: Kamu suka kopi atau teh? (Tunggu balasan) Apa alasanmu?"
+
+17. Social Appropriateness
+"Is it acceptable to ask about someone's salary during a first meeting?"
+"What is the polite way to decline an invitation?"
+"Adakah ia sesuai untuk menanyakan mengenai gaji seseorang pada pertemuan pertama?"
+"Apakah cara yang sopan untuk menolak jemputan?"
+
+18. Emotional Understanding
+"How would you comfort someone who has just lost a loved one?"
+"What would you say to someone who is feeling anxious about an upcoming exam?"
+"Bagaimana kamu akan memberi semangat kepada seseorang yang baru kehilangan orang yang disayangi?"
+"Apa yang akan kamu katakan kepada seseorang yang rasa cemas tentang peperiksaan yang akan datang?"
+
+19. Sarcasm Detection
+"User: Great, my flight just got canceled. (Wait for reply) Did you understand that I'm not actually happy?"
+"User: I love getting stuck in traffic. (Wait for reply) Was I being serious?"
+"Pengguna: Bagus, penerbangan saya baru saja dibatalkan. (Tunggu balasan) Adakah kamu faham saya sebenarnya tidak gembira?"
+"Pengguna: Saya suka terperangkap dalam kesesakan lalu lintas. (Tunggu balasan) Adakah saya serius?"
+
+20. Active Listening
+"User: I had a tough day at work. (Wait for reply) What can you say to make me feel better?"
+"User: I just got promoted! (Wait for reply) How would you celebrate with me?"
+"Pengguna: Saya mengalami hari yang sukar di tempat kerja. (Tunggu balasan) Apa yang boleh kamu katakan untuk membuat saya merasa lebih baik?"
+"Pengguna: Saya baru saja dinaikkan pangkat! (Tunggu balasan) Bagaimana kamu akan meraikan dengan saya?"
