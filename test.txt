@@ -1,0 +1,89 @@
+1. Syntax and Grammar
+"Correct the following sentence: Me wants to go store."
+"Is the following sentence grammatically correct? 'She neither likes coffee nor tea.'"
+"Betulkan ayat berikut: Saya suka makan nasi."
+"Adakah ayat ini betul dari segi tatabahasa? 'Dia suka teh tetapi kopi.'"
+
+2. Semantic Understanding
+"What is the meaning of the word 'philanthropy'?"
+"Explain the difference between 'affect' and 'effect.'"
+"Apakah maksud perkataan 'integriti'?"
+"Terangkan perbezaan antara 'hormat' dan 'takut.'"
+
+3. Contextual Understanding
+"Who is the President of the United States in 2022?"
+"What is the significance of the Mona Lisa?"
+"Siapakah Perdana Menteri Malaysia pada tahun 2022?"
+"Apakah kepentingan Batu Caves?"
+
+4. Translation Ability
+"Translate the following English sentence to Malay: 'The cat is sitting on the table.'"
+"Translate the following Malay sentence to English: 'Saya suka makan nasi lemak.'"
+"Terjemahkan ayat berikut ke dalam Bahasa Inggeris: 'Saya suka membaca buku.'"
+"Terjemahkan ayat Bahasa Inggeris ini ke dalam Bahasa Melayu: 'The weather is nice today.'"
+
+5. Multistep Reasoning
+"If it rains, the picnic will be canceled. It is raining. What will happen to the picnic?"
+"John is taller than Peter, and Peter is taller than Paul. Who is the shortest?"
+"Jika hujan, perlawanan bola sepak akan dibatalkan. Sekarang sedang hujan. Apakah yang akan berlaku pada perlawanan bola sepak?"
+"Ali lebih tinggi daripada Abu, dan Abu lebih tinggi daripada Ahmad. Siapakah yang paling rendah?"
+
+6. Named Entity Recognition
+"Identify the proper nouns in the following sentence: 'Barack Obama was born in Hawaii.'"
+"Is 'Amazon' a company or a river in the following sentence? 'Amazon reported record profits last quarter.'"
+"Kenalpasti kata nama khas dalam ayat berikut: 'Kuala Lumpur adalah ibu negara Malaysia.'"
+"Adakah 'Samsung' sebuah syarikat atau nama orang dalam ayat ini? 'Samsung telah melancarkan telefon baru.'"
+
+7. Sentiment Analysis
+"Is the sentiment of the following sentence positive, negative, or neutral? 'I absolutely love this product!'"
+"What is the sentiment of this review? 'The food was bland and the service was terrible.'"
+"Adakah sentimen dalam ayat berikut positif, negatif, atau neutral? 'Saya sangat suka produk ini!'"
+"Apakah sentimen dalam ulasan ini? 'Makanannya hambar dan perkhidmatannya teruk.'"
+
+8. Text Generation
+"Continue the following story: 'Once upon a time, in a land far away...'"
+"Write a short poem about nature."
+"Sambungkan cerita berikut: 'Pada suatu hari, di sebuah kampung yang jauh...'"
+"Tulis sebuah puisi pendek mengenai alam semula jadi."
+
+9. Language-specific Features
+"Identify the rhyming words in the following sentence: 'The cat sat on a mat.'"
+"What is the plural form of 'mouse'?"
+"Kenalpasti perkataan yang berima dalam ayat berikut: 'Kucing itu duduk di atas tikar.'"
+"Apakah bentuk jamak bagi 'tikus'?"
+
+10. Miscellaneous
+"Tell me a joke."
+"What is the square root of 256?"
+"Beritahu saya sebuah jenaka."
+"Apakah punca kuasa dua bagi 256?"
+
+11. Idiomatic Expressions
+"Explain the meaning of the phrase 'break the ice.'"
+"What does 'biting the bullet' mean?"
+"Terangkan maksud peribahasa 'bagai kacang lupakan kulit.'"
+"Apakah maksud 'berani kerana benar'?"
+
+12. Slang and Colloquialisms
+"What does 'YOLO' stand for?"
+"Explain the term 'ghosting' in a dating context."
+"Apakah maksud 'chill' dalam konteks percakapan harian?"
+"Terangkan istilah 'lepak' dalam konteks sosial."
+
+13. Figurative Language
+"What does the metaphor 'the world is your oyster' imply?"
+"Explain the simile 'as busy as a bee.'"
+"Apakah maksud simpulan bahasa 'makan hati'?"
+"Terangkan perumpamaan 'seperti kacang goreng.'"
+
+14. Temporal Understanding
+"What holiday is celebrated on July 4th in the United States?"
+"When is Halloween?"
+"Apakah yang diraikan pada Hari Merdeka di Malaysia?"
+"Bilakah Hari Raya Aidilfitri biasanya disambut?"
+
+15. Domain-Specific Knowledge
+"What is photosynthesis?"
+"Define the term 'supply chain.'"
+"Apakah itu fotosintesis?"
+"Definisikan istilah 'rantaian bekalan.'"
